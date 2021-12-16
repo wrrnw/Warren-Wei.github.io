@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Warren-Wei/Warren-Wei.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/Warren-Wei/Warren-Wei.github.io/static/js/main.6d735c83.js",
+    "static/js/787.3058b895.chunk.js": "/Warren-Wei/Warren-Wei.github.io/static/js/787.3058b895.chunk.js",
+    "static/media/logo.svg": "/Warren-Wei/Warren-Wei.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Warren-Wei/Warren-Wei.github.io/index.html",
+    "main.073c9b0a.css.map": "/Warren-Wei/Warren-Wei.github.io/static/css/main.073c9b0a.css.map",
+    "main.6d735c83.js.map": "/Warren-Wei/Warren-Wei.github.io/static/js/main.6d735c83.js.map",
+    "787.3058b895.chunk.js.map": "/Warren-Wei/Warren-Wei.github.io/static/js/787.3058b895.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6d735c83.js"
+  ]
+}
